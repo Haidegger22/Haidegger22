@@ -30,11 +30,21 @@ Embedded-systems engineer from Russia 🇷🇺. I work with ARM single-board com
 - **[pi4-overclock-experiments](https://github.com/Haidegger22/pi4-overclock-experiments)** — Raspberry Pi 4 overclocking parameters and measured results
 - **[zero2w-spotpear-3.5inch-lcd-g-st7796s](https://github.com/Haidegger22/zero2w-spotpear-3.5inch-lcd-g-st7796s)** — SpotPear 3.5" SPI display on Pi Zero 2W
 
+## 📱 Android & apps
+
+- **[android-weather-widget](https://github.com/Haidegger22/android-weather-widget)** — погодный виджет 5×1 для Android: подробное окно с почасовкой и 7 днями, выбор города, сборка APK на ARM без Gradle (aapt2 → javac → d8 → apksigner)
+
 ## 🛠 Other projects
 
 - **ClawPuter** — pixel desktop companion for the M5Stack Cardputer
 - **meshcore-m5stack-c6l** — MeshCore firmware for M5Stack Unit C6L (ESP32-C6 + SX1262)
 - **deepseek-widget-build**, **jarvis-chat**, **mc-featured-skin**
+
+## 🧰 Home tools
+
+- **[opi-zero3w-prizrak-box](https://github.com/Haidegger22/opi-zero3w-prizrak-box)** — прокси-клиент Prizrak-Box на Zero 3W: ядро mihomo, автозапуск, проброс портов
+- **[opi-zero3w-reticulum](https://github.com/Haidegger22/opi-zero3w-reticulum)** — связь по Reticulum/LXMF через LoRa-меш на Zero 3W
+- **[opi-zero3w-desktop-widgets](https://github.com/Haidegger22/opi-zero3w-desktop-widgets)** — виджеты рабочего стола (погода, температура платы) для Zero 3W с экраном 1024×600
 
 ## 📬 Contact
 
