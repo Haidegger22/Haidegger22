@@ -42,6 +42,7 @@ Embedded-systems engineer from Russia 🇷🇺. I work with ARM single-board com
 - **meshcore-m5stack-c6l** — MeshCore firmware for M5Stack Unit C6L (ESP32-C6 + SX1262)
 - **deepseek-widget-build**, **jarvis-chat**, **mc-featured-skin**- **[alvin-i-burunduki](https://github.com/Haidegger22/alvin-i-burunduki)** — платформер про Элвина и бурундуков в духе NES «Чип и Дейл»: генерация графики через MiniMax, чиптюн-синтез на Python
 - **[xiaomi-note-4-flash-axionos](https://github.com/Haidegger22/xiaomi-note-4-flash-axionos)** — Redmi Note 4 на свежем Android 16: AxionOS + OrangeFox + microG/GBox, прошивка целиком с Linux-машины
+- **[ideapad330-debian-wayland](https://github.com/Haidegger22/ideapad330-debian-wayland)** — Debian 13 + KDE Plasma на Wayland на **внешнем** NVMe в Lenovo IdeaPad 330: система собрана на ARM-плате (debootstrap + qemu), Windows не тронут, пошаговая инструкция и скрипты сборки
 
 ## 🧰 Home tools
 
